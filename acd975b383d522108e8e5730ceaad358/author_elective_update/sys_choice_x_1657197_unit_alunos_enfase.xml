@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="enfase" table="x_1657197_unit_alunos" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>enfase</element>
+            <name>x_1657197_unit_alunos</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 13:41:02</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>enfase</sys_name>
+            <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+            <sys_update_name>sys_choice_x_1657197_unit_alunos_enfase</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 13:41:02</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desenvolvimento Web</label>
+            <language>en</language>
+            <name>x_1657197_unit_alunos</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 13:41:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 13:45:30</sys_updated_on>
+            <value>desenvolvimento web</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Science</label>
+            <language>en</language>
+            <name>x_1657197_unit_alunos</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 13:41:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 13:45:32</sys_updated_on>
+            <value>data science</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desenvolvimento Full  Stack</label>
+            <language>en</language>
+            <name>x_1657197_unit_alunos</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 13:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 13:45:34</sys_updated_on>
+            <value>desenvolvimento full stack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Big Data</label>
+            <language>en</language>
+            <name>x_1657197_unit_alunos</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 13:44:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 13:45:36</sys_updated_on>
+            <value>big data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enfase</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Segurança da Informação</label>
+            <language>en</language>
+            <name>x_1657197_unit_alunos</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 13:44:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 13:45:38</sys_updated_on>
+            <value>seguranca da informacao</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

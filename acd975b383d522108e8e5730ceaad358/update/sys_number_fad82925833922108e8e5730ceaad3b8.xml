@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1657197_unit_solicitacao_de_servicos_academicos">x_1657197_unit_solicitacao_de_servicos_academicos</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>NUM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 20:08:53</sys_created_on>
+        <sys_id>fad82925833922108e8e5730ceaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NUM</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>sys_number_fad82925833922108e8e5730ceaad3b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 20:08:53</sys_updated_on>
+    </sys_number>
+</record_update>

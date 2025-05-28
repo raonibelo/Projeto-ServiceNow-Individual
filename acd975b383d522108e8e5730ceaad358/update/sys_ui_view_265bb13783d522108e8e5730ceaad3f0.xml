@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>unit</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-11 00:44:37</sys_created_on>
+        <sys_id>265bb13783d522108e8e5730ceaad3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>sys_ui_view_265bb13783d522108e8e5730ceaad3f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-11 00:44:37</sys_updated_on>
+        <title>UNIT</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

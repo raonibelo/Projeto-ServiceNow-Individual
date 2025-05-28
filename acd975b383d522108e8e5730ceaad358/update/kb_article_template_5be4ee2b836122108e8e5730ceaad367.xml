@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template">
+    <kb_article_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer_ref display_value="Artigos UNIT">d675eaeb836122108e8e5730ceaad343</answer_ref>
+        <article_template>Artigos UNIT</article_template>
+        <child_table>u_kb_template_artigos_unit</child_table>
+        <description>Template criado para artigos relacionados à UNIT.</description>
+        <meta_description_field/>
+        <sys_class_name>kb_article_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 19:25:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5be4ee2b836122108e8e5730ceaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Artigos UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>kb_article_template_5be4ee2b836122108e8e5730ceaad367</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 19:25:51</sys_updated_on>
+    </kb_article_template>
+</record_update>

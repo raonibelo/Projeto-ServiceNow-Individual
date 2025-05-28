@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template_definition">
+    <kb_article_template_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <article_template display_value="Secretaria Virtual">2b77d66b832122108e8e5730ceaad3f4</article_template>
+        <collapsible/>
+        <column_label>Público-alvo</column_label>
+        <column_type>html</column_type>
+        <field_style/>
+        <heading_style/>
+        <mandatory>false</mandatory>
+        <order/>
+        <preview_text><![CDATA[<p>Público-Alvo</p>
+<p>sgsdgad</p>
+<p>fasdaf</p>]]></preview_text>
+        <sys_class_name>kb_article_template_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 18:54:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8bdd5263836122108e8e5730ceaad329</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Público-alvo</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>kb_article_template_definition_8bdd5263836122108e8e5730ceaad329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 18:54:47</sys_updated_on>
+        <table_column>x_1657197_unit_u_kb_p_blico_alvo</table_column>
+    </kb_article_template_definition>
+</record_update>

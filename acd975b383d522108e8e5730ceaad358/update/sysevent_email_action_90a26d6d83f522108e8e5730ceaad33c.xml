@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1657197_unit_solicitacao_de_servicos_academicos</collection>
+        <condition table="x_1657197_unit_solicitacao_de_servicos_academicos">sys_created_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^EQ<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="Today@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p data-sourcepos="7:1-7:37"><span style="color: #3598db;"><strong>Prezados(as) Secret&aacute;rios(as) da UNIT,</strong></span></p>
+<p data-sourcepos="9:1-9:97">Uma nova solicita&ccedil;&atilde;o de servi&ccedil;os acad&ecirc;micos foi registrada em nosso sistema e requer sua aten&ccedil;&atilde;o.</p>
+<p data-sourcepos="11:1-11:28">Detalhes da Solicita&ccedil;&atilde;o:</p>
+<ul style="list-style-position: inside;" data-sourcepos="13:1-18:0">
+<li data-sourcepos="13:1-13:102">N&uacute;mero da Solicita&ccedil;&atilde;o: Number: ${number}</li>
+<li data-sourcepos="15:1-15:102">Solicitante: ${nome_do_aluno}</li>
+<li data-sourcepos="15:1-15:102">Nome da Cadeira: ${matricula_de_cadeiras.nome_da_cadeira}<em><em><br /></em></em>
+<p data-sourcepos="23:1-23:48">Agradecemos a sua pronta aten&ccedil;&atilde;o a esta demanda.</p>
+<p data-sourcepos="25:1-25:15"><span style="color: #3598db;"><strong>Atenciosamente,</strong></span></p>
+<p data-sourcepos="27:1-28:4"><span style="color: #3598db;"><strong>Sistema de Solicita&ccedil;&otilde;es Acad&ecirc;micas UNIT.</strong></span></p>
+</li>
+</ul>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Notificação de Solicitação de Serviços</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>number,nome_do_aluno,matricula_de_cadeiras</recipient_fields>
+        <recipient_groups name="Secretaria UNIT">5efdc04383a122108e8e5730ceaad324</recipient_groups>
+        <recipient_users>6816f79cc0a8016401c5a33be04be441</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Nova Solicitação de Serviços Acadêmicos Aberta - [N°: ${number} ]</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 19:45:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90a26d6d83f522108e8e5730ceaad33c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Notificação de Solicitação de Serviços</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>sysevent_email_action_90a26d6d83f522108e8e5730ceaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 20:05:59</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

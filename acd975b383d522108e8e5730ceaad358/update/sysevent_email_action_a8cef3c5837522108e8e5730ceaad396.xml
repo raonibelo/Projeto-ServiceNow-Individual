@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1657197_unit_cadeiras</collection>
+        <condition table="x_1657197_unit_cadeiras">professoresVALCHANGES^EQ<item endquery="false" field="professores" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p data-sourcepos="49:1-49:44"><strong><span style="color: #3598db;">Prezado(a) Professor(a) ${professores.name},</span></strong></p>
+<p data-sourcepos="51:1-51:99">Informamos que o(a) senhor(a) foi atribu&iacute;do(a) &agrave; seguinte disciplina:</p>
+<ul style="list-style-position: inside;" data-sourcepos="53:1-54:0">
+<li data-sourcepos="53:1-54:0"><strong>Disciplina: ${nome_da_cadeira}<br /></strong></li>
+</ul>
+<p data-sourcepos="55:1-55:152">Mais detalhes sobre turmas, hor&aacute;rios e acesso ao material did&aacute;tico ser&atilde;o disponibilizados na base de conhecimento dos Professores.<br /><br />Agradecemos sua colabora&ccedil;&atilde;o e desejamos um excelente per&iacute;odo!</p>
+<p data-sourcepos="59:1-59:15"><strong><span style="color: #3598db;">Atenciosamente,</span></strong></p>
+<p data-sourcepos="61:1-63:4"><strong><span style="color: #3598db;">Arlindo Correa Coordenador(a) da UNIT.</span></strong></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Atribuição de professor à cadeira</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>professores</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Atribuição de disciplina!</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 18:01:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8cef3c5837522108e8e5730ceaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Atribuição de professor à cadeira</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>sysevent_email_action_a8cef3c5837522108e8e5730ceaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 18:01:19</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

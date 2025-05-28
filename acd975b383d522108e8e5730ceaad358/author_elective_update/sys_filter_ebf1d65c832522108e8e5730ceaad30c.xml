@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="DELETE">
+        <filter/>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-12 15:40:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ebf1d65c832522108e8e5730ceaad30c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FiltroProfessor</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>sys_filter_ebf1d65c832522108e8e5730ceaad30c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-12 15:44:56</sys_updated_on>
+        <table>x_1657197_unit_professores</table>
+        <title>FiltroProfessor</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="DELETE" query="documentkey=ebf1d65c832522108e8e5730ceaad30c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">acd975b383d522108e8e5730ceaad358</application>
+        <file_path/>
+        <instance_id>f9c628b71b0a0614c82acb7b234bcbb7</instance_id>
+        <instance_name>dev270552</instance_name>
+        <name>sys_filter_ebf1d65c832522108e8e5730ceaad30c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter/><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-12 15:40:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ebf1d65c832522108e8e5730ceaad30c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>FiltroProfessor</sys_name><sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package><sys_policy/><sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope><sys_update_name>sys_filter_ebf1d65c832522108e8e5730ceaad30c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-12 15:44:56</sys_updated_on><table>x_1657197_unit_professores</table><title>FiltroProfessor</title><user/></sys_filter><sys_translated_text action="delete_multiple" query="documentkey=ebf1d65c832522108e8e5730ceaad30c"/></record_update>]]></payload>
+        <payload_hash>-1939984027</payload_hash>
+        <record_name>FiltroProfessor</record_name>
+        <reverted_from/>
+        <source>bcd971f383d522108e8e5730ceaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-12 15:44:56</sys_created_on>
+        <sys_id>2c0352dc832522108e8e5730ceaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196c52baf740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-12 15:44:56</sys_updated_on>
+        <type>Filter</type>
+        <update_guid>e00352dce1252210c53f800970a71f5a</update_guid>
+        <update_guid_history>e00352dce1252210c53f800970a71f5a:-1939984027,abf1d65c38252210d06a79301d60c20e:-1896503033</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 18:59:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_filter">sys_filter</sys_db_object>
+        <sys_id>c5a9fb14c687468a848fb40f31cd7221</sys_id>
+        <sys_metadata>ebf1d65c832522108e8e5730ceaad30c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FiltroProfessor</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_parent display_value="Professores">e550863f83d522108e8e5730ceaad333</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_scope_delete display_value="">0fc32cc4e64d469084cf0e7714328440</sys_scope_delete>
+        <sys_update_name>sys_filter_ebf1d65c832522108e8e5730ceaad30c</sys_update_name>
+        <sys_update_version display_value="sys_filter_ebf1d65c832522108e8e5730ceaad30c">2c0352dc832522108e8e5730ceaad35a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 18:59:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

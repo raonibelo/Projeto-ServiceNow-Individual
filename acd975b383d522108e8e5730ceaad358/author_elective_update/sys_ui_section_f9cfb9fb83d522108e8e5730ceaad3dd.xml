@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Informações adicionais" section_id="f9cfb9fb83d522108e8e5730ceaad3dd" sys_domain="global" table="x_1657197_unit_alunos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>localizacao</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-11 01:03:58</sys_created_on>
+            <sys_id>cecff9fb83d522108e8e5730ceaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações adicionais" display_value="Informações adicionais" name="x_1657197_unit_alunos" sys_domain="global" view="Default view">f9cfb9fb83d522108e8e5730ceaad3dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-11 01:03:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-11 01:03:58</sys_created_on>
+            <sys_id>46cff9fb83d522108e8e5730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações adicionais" display_value="Informações adicionais" name="x_1657197_unit_alunos" sys_domain="global" view="Default view">f9cfb9fb83d522108e8e5730ceaad3dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-11 01:03:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ativo</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-11 01:03:58</sys_created_on>
+            <sys_id>cacff9fb83d522108e8e5730ceaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Informações adicionais" display_value="Informações adicionais" name="x_1657197_unit_alunos" sys_domain="global" view="Default view">f9cfb9fb83d522108e8e5730ceaad3dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-11 01:03:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Informações adicionais</caption>
+            <header>false</header>
+            <name>x_1657197_unit_alunos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-11 01:03:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9cfb9fb83d522108e8e5730ceaad3dd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1657197_unit_alunos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+            <sys_update_name>sys_ui_section_f9cfb9fb83d522108e8e5730ceaad3dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-11 01:05:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">acd975b383d522108e8e5730ceaad358</application>
+        <file_path/>
+        <instance_id>f9c628b71b0a0614c82acb7b234bcbb7</instance_id>
+        <instance_name>dev270552</instance_name>
+        <name>sys_ui_section_f9cfb9fb83d522108e8e5730ceaad3dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Informações adicionais" section_id="f9cfb9fb83d522108e8e5730ceaad3dd" sys_domain="global" table="x_1657197_unit_alunos" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>localizacao</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-11 01:03:58</sys_created_on><sys_id>cecff9fb83d522108e8e5730ceaad38e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Informações adicionais" display_value="Informações adicionais" name="x_1657197_unit_alunos" sys_domain="global" view="Default view">f9cfb9fb83d522108e8e5730ceaad3dd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-11 01:03:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-11 01:03:58</sys_created_on><sys_id>46cff9fb83d522108e8e5730ceaad38f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Informações adicionais" display_value="Informações adicionais" name="x_1657197_unit_alunos" sys_domain="global" view="Default view">f9cfb9fb83d522108e8e5730ceaad3dd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-11 01:03:58</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ativo</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-11 01:03:58</sys_created_on><sys_id>cacff9fb83d522108e8e5730ceaad38f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Informações adicionais" display_value="Informações adicionais" name="x_1657197_unit_alunos" sys_domain="global" view="Default view">f9cfb9fb83d522108e8e5730ceaad3dd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-11 01:03:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Informações adicionais</caption><header>false</header><name>x_1657197_unit_alunos</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-11 01:03:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f9cfb9fb83d522108e8e5730ceaad3dd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1657197_unit_alunos</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package><sys_policy/><sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope><sys_update_name>sys_ui_section_f9cfb9fb83d522108e8e5730ceaad3dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-11 01:05:13</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-57339647</payload_hash>
+        <record_name>Alunos</record_name>
+        <reverted_from/>
+        <source>bcd971f383d522108e8e5730ceaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-11 01:05:13</sys_created_on>
+        <sys_id>9810063f83d522108e8e5730ceaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196bcdfeb8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-11 01:05:13</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d010063ffdd52210950a8faa945ed7c9</update_guid>
+        <update_guid_history>d010063ffdd52210950a8faa945ed7c9:-57339647,42cff9fb38d5221070ee549ba2042391:-803399475</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 00:40:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>18e6cb68ee264de2ac9e0f30b03c2a84</sys_id>
+        <sys_metadata>f9cfb9fb83d522108e8e5730ceaad3dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Informações adicionais</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_parent display_value="Alunos">ba7a313783d522108e8e5730ceaad304</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_scope_delete display_value="">0fc32cc4e64d469084cf0e7714328440</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f9cfb9fb83d522108e8e5730ceaad3dd</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f9cfb9fb83d522108e8e5730ceaad3dd">9810063f83d522108e8e5730ceaad3c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 00:40:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

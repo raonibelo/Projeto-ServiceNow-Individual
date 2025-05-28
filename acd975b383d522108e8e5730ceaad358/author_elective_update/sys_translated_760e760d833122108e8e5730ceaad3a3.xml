@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="DELETE">
+        <element>name</element>
+        <id/>
+        <label>New Tab 2</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 13:04:06</sys_created_on>
+        <sys_id>760e760d833122108e8e5730ceaad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_update_name>sys_translated_760e760d833122108e8e5730ceaad3a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 13:04:06</sys_updated_on>
+        <value>3e0e760d833122108e8e5730ceaad39eNew Tab 2</value>
+    </sys_translated>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">acd975b383d522108e8e5730ceaad358</application>
+        <file_path/>
+        <instance_id>f9c628b71b0a0614c82acb7b234bcbb7</instance_id>
+        <instance_name>dev270552</instance_name>
+        <name>sys_translated_760e760d833122108e8e5730ceaad3a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>name</element><id/><label>New Tab 2</label><language>en</language><name>pa_tabs</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-27 13:04:06</sys_created_on><sys_id>760e760d833122108e8e5730ceaad3a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package><sys_policy/><sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope><sys_update_name>sys_translated_760e760d833122108e8e5730ceaad3a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-27 13:04:06</sys_updated_on><value>3e0e760d833122108e8e5730ceaad39eNew Tab 2</value></sys_translated></record_update>]]></payload>
+        <payload_hash>-1616106145</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>bcd971f383d522108e8e5730ceaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 13:04:06</sys_created_on>
+        <sys_id>470eba0d833122108e8e5730ceaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19711d7d5470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 13:04:06</sys_updated_on>
+        <type>Translated Name / Field</type>
+        <update_guid>7a0eba0d64312210e02fc6975f99518c</update_guid>
+        <update_guid_history>7a0eba0d64312210e02fc6975f99518c:-1616106145</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 13:04:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_translated">sys_translated</sys_db_object>
+        <sys_id>760d28ff42d643d0b4f1a765bfb10619</sys_id>
+        <sys_metadata>760e760d833122108e8e5730ceaad3a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="UNIT" source="x_1657197_unit">acd975b383d522108e8e5730ceaad358</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">acd975b383d522108e8e5730ceaad358</sys_scope>
+        <sys_scope_delete display_value="">0fc32cc4e64d469084cf0e7714328440</sys_scope_delete>
+        <sys_update_name>sys_translated_760e760d833122108e8e5730ceaad3a3</sys_update_name>
+        <sys_update_version display_value="sys_translated_760e760d833122108e8e5730ceaad3a3">470eba0d833122108e8e5730ceaad38d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 13:04:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

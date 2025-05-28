@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="document_viewer_audit=all,global_search_config_handler=KnowledgeArticle,all_tables.text_index_translations=true,attachment_index=true,text_index_attachment_displayed=true,text_index_enable_idf=true,synch_attachments=true,use_document_viewer=true,text_index_filter_junk=false" audit="true" db_object_id="6497966b832122108e8e5730ceaad3ad" extends="kb_knowledge" label="Secretaria Virtual" max_length="40" name="u_kb_template_respons_veis_pelo_processo" text_index="true" type="collection">
+        <element label="Conteúdo" max_length="8000" name="x_1657197_unit_u_kb_conte_do" text_index="true" type="html"/>
+        <element label="Público-alvo" max_length="8000" name="x_1657197_unit_u_kb_p_blico_alvo" text_index="true" type="html"/>
+        <element label="Responsáveis pelo processo" max_length="500" name="x_1657197_unit_u_kb_respons_veis_pelo_processo" text_index="true" type="string"/>
+    </element>
+</database>

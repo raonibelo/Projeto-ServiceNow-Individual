@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e550863f83d522108e8e5730ceaad333" extends="sys_user" label="Professores" max_length="40" name="x_1657197_unit_professores" type="collection">
+        <element label="Localização" max_length="32" name="localizacao" reference="cmn_location" type="reference"/>
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element label="Número de Matrícula" max_length="40" name="numero_de_matricula" type="string"/>
+        <element label="Data de Contratação" max_length="40" name="data_de_contratacao" type="glide_date"/>
+        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
+        <element label="Data de Demissão" max_length="40" name="data_de_demissao" type="glide_date"/>
+        <index name="index">
+            <element name="localizacao"/>
+        </index>
+    </element>
+</database>
